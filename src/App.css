@@ -1,0 +1,10 @@
+div .app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
